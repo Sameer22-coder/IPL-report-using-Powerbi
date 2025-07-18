@@ -64,4 +64,4 @@ The report provides deep insights into:
 ---
 ## 📸 Preview
 
-![IPL Dashboard Preview](https://github.com/Sameer22-coder/IPL-report-using-Powerbi/edit/main/README.md)
+Dashboard.jpg ![Dashboard](https://github.com/user-attachments/assets/e1f8c0c2-36b5-4218-b830-0245fa769f06)
