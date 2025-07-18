@@ -66,3 +66,7 @@ The report provides deep insights into:
 
 Dashboard.jpg ![Dashboard](https://github.com/Sameer22-coder/IPL-report-using-Powerbi/blob/main/Ipl_dashbard%20snapshort.jpg)
 
+
+# Feedback and Collaboration
+I welcome feedback, suggestions, and contributions to improve this project!
+If you spot any issues, have ideas to improve visualizations, or suggestions for additional insights—feel free to open an issue or drop a comment.
