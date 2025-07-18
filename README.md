@@ -64,4 +64,4 @@ The report provides deep insights into:
 ---
 ## 📸 Preview
 
-![IPL Dashboard Preview]()
+![IPL Dashboard Preview](Ipl_dashbard snapshort.jpg)
